@@ -12,8 +12,7 @@ The robot model was created using Fusion 360 and converted to URDF for simulatio
 
 #### Fusion 360 Model
 
-![Fusion 360 Model](path/to/fusion360_model_image.jpg)
-
+![Screenshot 2023-10-29 190840](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/221de9c6-b8cd-45f7-80aa-fd29c70808b5)
 #### URDF Model
 
 ![URDF Model](path/to/urdf_model_image.jpg)
