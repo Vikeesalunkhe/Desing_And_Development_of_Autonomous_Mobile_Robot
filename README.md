@@ -15,8 +15,7 @@ The robot model was created using Fusion 360 and converted to URDF for simulatio
 ![Screenshot 2023-10-29 190840](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/221de9c6-b8cd-45f7-80aa-fd29c70808b5)
 #### URDF Model
 
-![URDF Model](path/to/urdf_model_image.jpg)
-
+![botex1](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/73d205e0-b5dd-4d4e-bf76-df9d99f4c6da)
 ### Gazebo Simulation
 
 The URDF model was successfully uploaded to Gazebo for simulation. Below is an image of the robot in the Gazebo environment.
