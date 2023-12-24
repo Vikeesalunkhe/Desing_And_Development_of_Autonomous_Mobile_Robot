@@ -20,8 +20,7 @@ The robot model was created using Fusion 360 and converted to URDF for simulatio
 
 The URDF model was successfully uploaded to Gazebo for simulation. Below is an image of the robot in the Gazebo environment.
 
-![Gazebo Simulation](path/to/gazebo_simulation_image.jpg)
-
+![gif for UI - Made with Clipchamp](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/3e7f9ba0-9e5d-4975-9d8d-04642a499fbb)
 ## ROS Navigation
 
 ### SLAM (Simultaneous Localization and Mapping)
