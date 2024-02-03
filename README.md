@@ -56,6 +56,7 @@ The primary focus is on creating a seamless and efficient food delivery system, 
 ![gif for UI - Made with Clipchamp](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/d119f21b-0a5f-4722-90f9-97bc45177634)
 
 ### *Gazebo simulation of exported .urdf and .launch*
+![WhatsApp Image 2024-01-11 at 11 53 19](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/a24478e2-d0c2-44f6-b509-7ba19cfc518c)
 
 ![gif for UI - Made with Clipchamp](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/3e7f9ba0-9e5d-4975-9d8d-04642a499fbb)
 
