@@ -1,0 +1,12 @@
+global_frame: map
+rolling_window: false
+track_unknown_space: true
+
+plugins:
+  - {name: static,                  type: "costmap_2d::StaticLayer"}
+  - {name: inflation_g,               type: "costmap_2d::InflationLayer"}
+
+cost_factor: 0.55
+neutral_cost: 1
+
+  
