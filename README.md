@@ -60,6 +60,7 @@ The primary focus is on creating a seamless and efficient food delivery system, 
 
 ![gif for UI - Made with Clipchamp](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/3e7f9ba0-9e5d-4975-9d8d-04642a499fbb)
 
+## 3D models using Fusion 360, and now, we've seamlessly converted them into URDF format for integration into ROS. 🎨➡️ Now, with teleoperation commands, we're able to control and navigate these robots effortlessly.
 
 https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/13c8da64-cd97-456a-a61b-00fc7f58c072
 
