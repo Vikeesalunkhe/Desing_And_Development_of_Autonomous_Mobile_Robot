@@ -60,6 +60,11 @@ The primary focus is on creating a seamless and efficient food delivery system, 
 
 ![gif for UI - Made with Clipchamp](https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/3e7f9ba0-9e5d-4975-9d8d-04642a499fbb)
 
+
+https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/13c8da64-cd97-456a-a61b-00fc7f58c072
+
+
+
 ## ROS (Robot Operating System) Information
 
 ### Installation
