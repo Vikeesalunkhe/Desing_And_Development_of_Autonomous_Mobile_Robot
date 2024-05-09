@@ -64,6 +64,9 @@ The primary focus is on creating a seamless and efficient food delivery system, 
 
 https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/13c8da64-cd97-456a-a61b-00fc7f58c072
 
+## Model Testing
+https://github.com/Vikeesalunkhe/Desing_And_Development_of_Autonomous_Mobile_Robot/assets/117392336/ade778a5-1ecd-4b53-bbb8-7e3b640cb0bf
+
 
 
 ## ROS (Robot Operating System) Information
